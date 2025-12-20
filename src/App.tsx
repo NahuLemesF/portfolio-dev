@@ -1,8 +1,7 @@
 function App() {
-
   return (
-    <div className="p-8 text-3xl font-bold text-indigo-900">
-      My Portfolio
+    <div className="min-h-screen bg-zinc-950 text-zinc-100">
+      App running
     </div>
   )
 }
